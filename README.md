@@ -1,7 +1,7 @@
 <h1 align="center">Привет, меня зовут Ильфат 
   <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 </h1>
-<h3 align="center">начинающий front-end разработчик</h3>
+<h3 align="center">front-end разработчик</h3>
 
 <ul>
   <li>Осваиваю новую для себя IT-сферу</li>
